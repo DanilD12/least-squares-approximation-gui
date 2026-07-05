@@ -26,6 +26,6 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/DanilD12/least-squares-approximation-gui.git
-   Откройте проект в вашей IDE (NetBeans, IntelliJ IDEA и др.).
-   Подключите внешние библиотеки .jar из папки lib к проекту (в NetBeans: Libraries -> Add JAR/Folder).
-   Запустите главный класс coursework.Variant20.
+2. Откройте проект в вашей IDE (NetBeans, IntelliJ IDEA и др.).
+3. Подключите внешние библиотеки .jar из папки lib к проекту (в NetBeans: Libraries -> Add JAR/Folder).
+4. Запустите главный класс coursework.Variant20.
